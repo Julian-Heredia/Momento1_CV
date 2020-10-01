@@ -1,26 +1,48 @@
 .B3{
     position: absolute;
     width: 300px;
+    margin: -1130px;
+    left: 2500px;
     height: 300px;
-    left: 1400px;
+    ;
 }
 
 .B4{
     position: absolute;
-    left: 1400px;
+    margin: -1130px;
+    left: 2500px;
+
 }
 
 .B5{
     position: absolute;
-    left: 1400px;
+    margin: -1130px;
+    left: 2500px;
+
 }
 
 .B6{
     position: absolute;
-    left: 1400px;
+    margin: -1130px;
+    left: 2500px;
 }
 
 .B7{
     position: absolute;
-    left: 1400px;
+    margin: -1130px;
+    left: 2500px;
+
+}
+
+.B9{
+    position: absolute;
+    margin: -1130px;
+    left: 2500px;
+
+}
+
+.g-ytsubscribe{
+    position: absolute;
+    margin: -1130px;
+    left: 2500px;
 }
